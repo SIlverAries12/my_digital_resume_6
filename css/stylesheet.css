@@ -1,0 +1,43 @@
+#headshot{
+    border-radius: 50%;
+    width: 15%;
+    height: 25%;
+    border : 3px solid lightskyblue;
+}
+section{
+    display: inline-flex;
+    position: relative;
+    height: 100%;
+}
+#sidebar{
+    background-color: grey;
+    color: white;
+    border: 3px solid black;
+    border-top: none ;
+    width: 20%;
+    padding: 1rem;
+}
+
+header{
+    background-color: darkcyan;
+    text-align: center;
+    border: 3px solid black;
+}
+
+#main_content{
+    padding: 1rem;
+    margin: 1rem;
+    width: 80%;
+}
+
+footer {
+    background-color: #343330;
+    border: 50px solid #343330;
+    text-align: center;
+    color: #FCF7F8;
+}
+
+.textcolor{
+    color: white;
+}
+
